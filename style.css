@@ -1,0 +1,15 @@
+img {
+    width: 200px;
+    height: 200px;
+
+     }
+h1 {
+    text-align: center;
+    padding-top: 20px;
+    color: brown;
+   }
+   p{
+    text-align: justify;
+    padding-top: 20px;
+    color: rgb(20, 20, 20);
+   }
